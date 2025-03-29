@@ -1,9 +1,13 @@
 .content {
   display: flex;
   flex-direction: column;
-
   color: #fff;
   margin: 64px 148px 0;
+}
+
+.article {
+  max-width: 984px;
+  margin-top: 92px;
 }
 
 .article__image {
@@ -11,14 +15,9 @@
   height: auto;
 }
 
-.article {
-  width: 830px;
-  margin-top: 92px;
-}
-
 .article__content_title {
   font-size: 54px;
-  margin: 0;
+  margin: 92px 0 0;
 }
 
 .article__content_quotation {
@@ -62,6 +61,7 @@
   .article__content_title {
     width: 100%;
     font-size: 45px;
+    margin: 90px 0 0;
   }
   .article__content_quotation {
     width: 100%;
@@ -93,6 +93,7 @@
   .article__content_title {
     width: 100%;
     font-size: 32px;
+    margin: 64px 0 0;
   }
 
   .article__content_quotation {
