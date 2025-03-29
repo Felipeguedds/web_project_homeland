@@ -35,6 +35,10 @@
 /* -- medias -- */
 
 @media screen and (max-width: 1024px) {
+  .header {
+    margin: 0 0 0;
+  }
+
   .header__logo {
     max-width: 254px;
     height: 66px;
@@ -45,12 +49,14 @@
     font-size: 75px;
     max-width: 100%;
     height: auto;
+    margin: 90px 0 0;
   }
 
   .header__description {
     font-size: 30px;
     max-width: 100%;
     height: auto;
+    margin: 25px 0 0;
   }
 }
 
@@ -63,13 +69,14 @@
 
   .header__title {
     font-size: 40px;
-    max-width: 100%;
-    height: auto;
+    max-width: 288px;
+    height: 88px;
+    margin-top: 50px;
   }
 
   .header__description {
     font-size: 16px;
-    max-width: 100%;
+    max-width: 288px;
     height: auto;
   }
 }

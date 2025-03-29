@@ -37,6 +37,7 @@
   margin-top: 32px;
   margin-bottom: 0;
   font-weight: normal;
+  line-height: 1.6;
 }
 
 /* -- medias -- */
@@ -45,6 +46,7 @@
   .article__image {
     max-width: 100%;
     height: auto;
+    margin-top: -60px;
   }
 
   .article__content {
@@ -54,22 +56,26 @@
   .article__content_title {
     width: 100%;
     font-size: 45px;
-    margin: 90px 0 0;
+    margin-top: 90px;
+    padding-left: 24px;
   }
   .article__content_quotation {
     width: 100%;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
   .article__content_quote {
-    width: 100%;
+    max-width: 100%;
   }
 
   .article__content_author {
-    width: 100%;
+    max-width: 100%;
   }
 
   .article__content_text {
-    width: 100%;
+    max-width: 100%;
+    line-height: 1.8;
   }
 }
 
@@ -87,10 +93,14 @@
     width: 100%;
     font-size: 32px;
     margin: 64px 0 0;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   .article__content_quotation {
     width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   .article__content_quote {

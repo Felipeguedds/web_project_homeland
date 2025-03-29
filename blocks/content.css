@@ -2,5 +2,12 @@
   display: flex;
   flex-direction: column;
   color: #fff;
-  margin: 64px 148px 0;
+  margin: 0 148px 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .content {
+    margin: 0 0 0;
+    align-items: center;
+  }
 }
