@@ -7,6 +7,8 @@ A **Galeria de Arte TripleTen** é um site desenvolvido para apresentar obras de
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML e CSS** → Estruturação e estilização do site
+- **CSS Grid e Flexbox** → Construção da galeria de fotos e do layout das seções
+- **Design Responsivo** → Layout adaptado para diferentes tamanhos de tela com media queries
 - **Metodologia BEM Flat** → Organização dos arquivos e código CSS para manter um padrão claro e escalável
 - **Acessibilidade** → Aplicação de boas práticas para tornar o site mais inclusivo e utilizável para todos
 
