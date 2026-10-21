@@ -1,14 +1,14 @@
 # De Pátria para Pátria
 
-Página de uma galeria de arte que conta a história de quem trabalha na TripleTen através de fotos das suas cidades natais.
+Página de uma galeria de arte que conta a história de quem trabalha na TripleTen com fotos da cidade natal de cada um.
 
 Demo ao vivo: [felipeguedds.github.io/web_project_homeland](https://felipeguedds.github.io/web_project_homeland/)
 
-Começou na Sprint 5 do bootcamp da TripleTen e ganhou o layout responsivo na Sprint 6.
+Fiz esse projeto na Sprint 5 do bootcamp da TripleTen e na Sprint 6 voltei nele pra deixar o layout responsivo.
 
 ## Funcionalidades
 
-A página abre com uma capa e um texto de apresentação, seguidos de uma grade de fotos e de três cartões de lugares (País de Gales, Estados Unidos e Burundi), cada um com a foto, a história do autor e o artista da obra. O layout se reorganiza conforme a largura da tela, do desktop até o celular, e a grade de fotos vai de quatro colunas no desktop até uma no celular.
+A página abre com uma capa e um texto de apresentação. Depois vem uma grade de fotos e três cartões de lugares (País de Gales, Estados Unidos e Burundi), cada um com a foto, a história do autor e o artista da obra. Em telas menores o layout se reorganiza, e a grade de fotos vai de quatro colunas no desktop até uma no celular.
 
 ## Construído com
 
